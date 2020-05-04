@@ -20,4 +20,4 @@
 <br>
 有位作者进行了修改以适合 heroku 部署: https://github.com/gfw-breaker/heroku-node-proxy
 <br>
-本项目基于修改版的基础上，仅仅是修改了主页。
+本项目基于修改版的基础上，仅仅再度修改了主页，不要在issues区域留言，如果有问题请联系原作者。
