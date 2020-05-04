@@ -1,6 +1,6 @@
 ## 楚门的世界（Heroku Node Unblocker）
 
-### 使用方法（简易版）
+### 使用方法（简易部署说明）
 
 1. Fork 项目<br>
 在当前页面点击右上角的 Fork 将项目拷贝至自己的 Github 账号下。<br>
