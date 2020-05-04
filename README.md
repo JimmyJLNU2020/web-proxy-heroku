@@ -13,7 +13,7 @@
 点击页面中的 GitHub/Connect to Github, 会要求你登录 Github, 请登录刚刚 Fork 项目的 Github账号。<br>
 5. 部署<br>
 当前页面将会显示你关联的 Github 账号, 在 Search for a repository to connect to 选项中输入 web-proxy-heroku
-并点击 Searh, 选择 repo 点击 Connect, 连接完成后, 在最下方点击 Deploy Branch 完成部署。<br>
+并点击 Search, 选择 repo 点击 Connect, 连接完成后, 在最下方点击 Deploy Branch 完成部署。<br>
 
 ### 关于
 
